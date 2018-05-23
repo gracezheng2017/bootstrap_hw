@@ -1,1 +1,1 @@
-web: gunicorn foldername.app:app
+web: gunicorn app:app
